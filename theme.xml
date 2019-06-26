@@ -124,7 +124,7 @@ was the greatest teacher.
 
 		<image name="background" extra="true">
 <!-- You can change the background image by putting another image in the following path and editing the following line. -->
-			<path>./_inc/images/detailed2.png</path>
+			<path>./_inc/images/detailed.png</path>
 			<origin>0 0</origin>
 			<pos>0 0</pos>
 			<size>1 1</size>
@@ -147,9 +147,9 @@ was the greatest teacher.
 		<image name="background_bottom1" extra="true">
 			<path>./_inc/images/bg_color.png</path>
 			<origin>0 0</origin>
-			<pos>0 0.754</pos>
-			<size>1 0.246</size>
-			<color>00000044</color>
+			<pos>0 0.755</pos>
+			<size>1 0.241</size>
+			<color>00333366</color>
 		</image>
 
 		<textlist name="gamelist">
